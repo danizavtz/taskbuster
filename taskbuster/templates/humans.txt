@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Danizavtz Developer @danizavtz
+
+# THANKS
+    Thanks to all blogers who made wonderful posts showing a new technology and sharing your knowledge contributing to made me better programmer
+    Taskbuster Django Tutorial
+
+# TECHNOLOGY COLOPHON
+    Django
+    HTML5, CSS3
+    jQuery, Modernizr
+    Twitter Bootstrap
