@@ -2,10 +2,10 @@
 # The humans responsible & technology colophon
 
 # TEAM
-    Danizavtz Developer @danizavtz
+    Danizavtz -- Developer -- @danizavtz
 
 # THANKS
-    Thanks to all blogers who made wonderful posts showing a new technology and sharing your knowledge contributing to made me better programmer
+    Thanks to all blogers who made wonderful posts showing a new technology and sharing your knowledge contributing to made me a better programmer
     Taskbuster Django Tutorial
 
 # TECHNOLOGY COLOPHON
