@@ -2,11 +2,13 @@
 from selenium.webdriver.firefox import webdriver
 from django.core.urlresolvers import reverse
 from django.contrib.staticfiles.testing import LiveServerTestCase
+from django.utils.translation import activate
 
 class HomeNewVisitorTest(LiveServerTestCase):
     def setUp(self):
         self.browser = webdriver.WebDriver()
         self.browser.implicitly_wait(5)
+        activate('en')
 
     def tearDown(self):
         self.browser.quit()
